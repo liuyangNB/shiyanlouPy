@@ -1,0 +1,9 @@
+18项目结构.py
+MANIFEST.in
+__init__.py
+factorial.py
+setup.py
+factorial_ly.egg-info/PKG-INFO
+factorial_ly.egg-info/SOURCES.txt
+factorial_ly.egg-info/dependency_links.txt
+factorial_ly.egg-info/top_level.txt
